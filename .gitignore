@@ -1,0 +1,3 @@
+backend/vendor/
+backend/config.inc.php
+backend/config.sh
