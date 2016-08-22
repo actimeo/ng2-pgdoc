@@ -1,4 +1,0 @@
-#! /bin/sh
-DBNAME='adatabase'
-DBUSER='ausername'
-DBPASS='apassword'
